@@ -9,7 +9,7 @@
 
 ## Basic of python programming for API
 
-### 1. [Programming_API_guide]()
+### 1. [Programming_API_guide](https://github.com/whitekun91/LLM_Master_Class/blob/main/Programming_API_guide.ipynb)
 ### 2. [Examples of ChatGPT]()
 ### 3. [Examples of Langchain]()
 
