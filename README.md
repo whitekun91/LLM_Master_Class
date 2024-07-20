@@ -7,6 +7,9 @@
 
 # Folders of Contents 
 
+---
+# Part 3
+
 ## Basic of python programming for API
 
 ### 1. [Programming_API_guide]()
@@ -15,3 +18,9 @@
 ### 4. [Examples of DuckDuckgo]()
 
 ---
+
+# Part 4
+
+## Developing LLM Services examples
+
+### 1. [Examples of Embedding]()
