@@ -1,11 +1,14 @@
 ﻿
 # Lecture Note : LLM Master Class
 
+
+> Contents are based of korean and english.
+> 
 > All codes are reference by this link : https://fastcampus.co.kr/data_online_llmmaster
 
 ---
 
-# Folders of Contents 
+# Contents 
 
 ---
 # Part 3
@@ -25,3 +28,7 @@
 ## Developing LLM Services examples
 
 ### 1. [Examples of Embedding](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/Embedding_samples.ipynb)
+### 2. [Examples of VectorDB & Vector Indexing()
+### 3.
+### 4.
+### 5.
