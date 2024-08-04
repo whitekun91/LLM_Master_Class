@@ -28,7 +28,7 @@
 ## Developing LLM Services examples
 
 ### 1. [Examples of Embedding](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/Embedding_samples.ipynb)
-### 2. [Examples of VectorDB & Vector Indexing()
-### 3.
+### 2. [Examples of VectorDB & Vector Indexing - LlamaIndex](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/LlamaIndex_examples.ipynb)
+### 3. 
 ### 4.
 ### 5.
