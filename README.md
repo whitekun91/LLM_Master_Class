@@ -31,4 +31,5 @@
 ### 2. [Examples of VectorDB & Vector Indexing - LlamaIndex](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/LlamaIndex_examples.ipynb)
 ### 3. [Examples of Post processing - Moderate](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/Postprocessing_examples.ipynb)
 ### 4. [Examples of Groundedness - RAGAS](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/Groundedness(RAGAS)_Examples.ipynb)
-### 5.
+### 5. [Examples of APP (STT <-> TTS)]()
+### 6. [Examples of APP (Generate Concepts)]()
