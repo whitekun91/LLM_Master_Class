@@ -33,3 +33,11 @@
 ### 4. [Examples of Groundedness - RAGAS](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/Groundedness(RAGAS)_Examples.ipynb)
 ### 5. [Examples of APP (STT <-> TTS)](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/Sample_Apps(STT,TTS).ipynb)
 ### 6. [Examples of APP (Generate Concepts)](https://github.com/whitekun91/LLM_Master_Class/blob/main/Part4/Sample_Apps(Generate_Concepts).ipynb)
+
+---
+
+# Part 5
+
+## Architecture and Integration
+
+### 1. [Examples of API calling]()
